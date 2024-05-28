@@ -1,0 +1,25 @@
+{
+  "short_name": "BARA Software",
+  "name": "We create fully customized software from scratch, suited to any project or vision. Our AI-powered solutions automate routine tasks, enhancing your efficiency and freeing up your time. This boosts revenue, improves client retention, and streamlines operations. Elevate your productivity and strengthen your web presence with our professional app development, web design, and automation services.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
